@@ -1,0 +1,42 @@
+<!-- header.php -->
+<!DOCTYPE html>
+<html lang="ru">
+<style>
+    body {
+        background-color: #ffffff; /* Белый цвет фона */
+        color: #000000; /* Черный цвет текста */
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #ff7f0e; /* Оранжевый цвет */
+        color: #ffffff; /* Белый цвет текста */
+        padding: 20px;
+        text-align: center;
+    }
+    main {
+        padding: 20px;
+    }
+    footer {
+        background-color: #007bff; /* Синий цвет */
+        color: #ffffff; /* Белый цвет текста */
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+    a {
+        color: #007bff; /* Синий цвет ссылок */
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
+<body>
+<header>
+    <h1>Сайт обучения аппаратчиков полимеризации</h1>
+</header>
+<main>
